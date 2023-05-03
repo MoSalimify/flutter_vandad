@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473290862269",
+    "project_id": "mynotes-flutterify",
+    "storage_bucket": "mynotes-flutterify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473290862269:android:6b0bae6a54436b5ecf51d4",
+        "android_client_info": {
+          "package_name": "com.strawboy.fluttertut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473290862269-lip70id7aen5c7rn5b77bpvm3kksb6ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBd6dsVZ-4UHkJVElt_7MU3dTLbXGvuDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473290862269-lip70id7aen5c7rn5b77bpvm3kksb6ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
